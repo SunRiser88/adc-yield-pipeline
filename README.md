@@ -1,7 +1,7 @@
 # 🔬 ADC Yield Intelligence Platform
 ### Automated Defect Classification · Inline Analysis · Yield Learning
 
-A portfolio-grade Streamlit application simulating an **Automated Defect Classification (ADC)** pipeline for semiconductor wafer manufacturing — modeled after real-world tools like Klarity and Exensio.
+A portfolio-grade Render application simulating an **Automated Defect Classification (ADC)** pipeline for semiconductor wafer manufacturing — modeled after real-world tools like Klarity and Exensio.
 
 ---
 
