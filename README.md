@@ -50,9 +50,3 @@ Synthetic Wafer Scan → Defect Detection → Feature Extraction → RF Classifi
 - **Python** · **Streamlit** · **Plotly** · **scikit-learn** · **pandas** · **numpy**
 
 ---
-
-## 🔗 Relevance to PTM Yield Systems Engineer Role
-- Simulates inline defect data pipeline workflows
-- Demonstrates ADC + ML/AI capability
-- Models yield analysis matching Klarity/Exensio domain
-- SQL-ready data model (lot_id, wafer_id, process_step, defect metadata)
