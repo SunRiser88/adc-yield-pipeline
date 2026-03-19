@@ -47,6 +47,6 @@ Synthetic Wafer Scan → Defect Detection → Feature Extraction → RF Classifi
 ---
 
 ## 🛠️ Tech Stack
-- **Python** · **Streamlit** · **Plotly** · **scikit-learn** · **pandas** · **numpy**
+- **Python** · **Render** · **Plotly** · **scikit-learn** · **pandas** · **numpy**
 
 ---
